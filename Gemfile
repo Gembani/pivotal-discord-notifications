@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem 'dotenv'
 gem 'discordrb-webhooks'
 gem 'byebug'
 gem 'sinatra'
